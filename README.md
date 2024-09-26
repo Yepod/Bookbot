@@ -1,2 +1,2 @@
 # Bookbot
-My first coding project made in Py.
+BookBot is my first project!
